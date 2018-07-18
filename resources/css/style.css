@@ -16,3 +16,19 @@ body {
 h1 {
     color: white;
 }
+
+.main h2 {
+    color: white;
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    color: gray;
+    font-size: 21px;
+
+}
+
+.footer {
+    text-align: right;
+}
